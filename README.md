@@ -1,7 +1,7 @@
 <h1>🌱 hi, i'm tanya!</h1>
 
 ### 🍀 about me
-I'm a senior at Cornell studying Computer Science and Linguistics, exploring what happens when technology, liberal arts, and human-centered design meet, and learning new tools/skills along the way! Beyond tech, I love to draw, read about bugs and plants, excavate the old internet, and watch movies.
+I'm a senior at Cornell studying Computer Science and Linguistics, exploring what happens when technology, liberal arts, and human-centered design meet (and learning new tools/skills along the way)! Beyond tech, I love to draw, read about bugs and plants, excavate the old internet, and watch movies.
 
 ---
 
@@ -26,3 +26,8 @@ I'm a senior at Cornell studying Computer Science and Linguistics, exploring wha
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
+---
+
+### 🍃 links
+
+<p> <a href="https://tanya-pa.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-tanya--pa.github.io-4B7BEC?style=flat-square" /></a> <a href="mailto:tanya26.paul@gmail.com"><img src="https://img.shields.io/badge/Email-tanya26.paul%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> </p>
