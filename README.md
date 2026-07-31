@@ -1,7 +1,7 @@
 <h1>🌱 hi, i'm tanya!</h1>
 
 ### 🍀 about me
-I'm a senior at Cornell studying Computer Science and Linguistics, exploring what happens when technology, liberal arts, and human-centered design meet. Along the way, I enjoy building fun web applications and picking up new tools. Beyond tech, I love to draw, read about bugs and plants, excavate the old internet, and watch movies.
+I'm a senior at Cornell studying Computer Science and Linguistics, exploring what happens when technology, liberal arts, and human-centered design meet. Along the way, I enjoy building fun web applications and picking up new tools. Beyond tech, I love to draw, read about bugs and plants, excavate the old internet, and watch movies!
 
 ---
 
